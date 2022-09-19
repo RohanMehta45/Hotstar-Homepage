@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    background: #141a28;
+}
+
 body {
     width: 100%;
     position: relative;
