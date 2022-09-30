@@ -137,6 +137,7 @@ body {
     /* flex: 0 0 200px; */
     width: 80%;
     height: 100%;
+    color: white;
     position: relative;
     z-index: 3;
     background: linear-gradient(to right, #030b17 80%, #0c111b00);
@@ -337,6 +338,7 @@ body {
     /* border: 1px solid red; */
     margin-top: 5%;
     flex-wrap: wrap;
+    color: white;
 }
 
 .left {
