@@ -105,6 +105,58 @@ body {
 }
 
 
+/* Coupon */
+
+.ccontent {
+    display: flex;
+}
+
+#coupon {
+    position: absolute;
+    height: 410px;
+    width: 600px;
+    background-color: #030b17;
+    z-index: 10;
+    margin-top: -24.8%;
+    margin-left: 33%;
+    color: #fff;
+    visibility: hidden;
+}
+
+.cimg>img {
+    height: 360px;
+}
+
+.ctext {
+    padding: 25px;
+    line-height: 1.7;
+}
+
+.buttonc {
+    background-color: blue;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.sub {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 1.7%;
+}
+
+.cs {
+    color: greenyellow;
+}
+
+
 /*CAROUSEL PART */
 
 .carousel-container {
