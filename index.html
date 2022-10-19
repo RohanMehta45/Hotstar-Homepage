@@ -21,6 +21,8 @@
 
 <body>
 
+
+
     <!--NAVIGATION BAR-->
 
     <nav class="navbar">
@@ -30,6 +32,8 @@
             <li class="nav-items"><a href="#">Movies</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"> <button onclick="changeMode()" id="dark">Change Mode</button></li>
+
         </ul>
 
         <div class="right-container">
@@ -66,7 +70,7 @@
     <!--COUPON CODE-->
 
     <div id="coupon">
-        <button onclick="closeCoupon()">&times;</button>
+        <button onclick="closeCoupon()"><span>&times;</span></button>
         <div class="ccontent">
             <div class="cimg">
                 <img src="images/poster 12.png" alt="">
