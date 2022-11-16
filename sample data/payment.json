@@ -1,0 +1,51 @@
+[{
+        "payment_id": "p01",
+        "payment_date": "15/10/2022",
+        "payment_mode": "paytm",
+        "payment_status": "completed",
+        "order_id": "o4",
+        "product_id": "chocolate_o3",
+        "bill_amt": "Rs.1799/-",
+        "user_id": 1
+    },
+    {
+        "payment_id": "p02",
+        "payment_date": "1/10/2022",
+        "payment_mode": "paytm",
+        "payment_status": "cancelled",
+        "order_id": "o2",
+        "product_id": "f01",
+        "bill_amt": "Rs. 1048/-",
+        "user_id": 4
+    },
+    {
+        "payment_id": "p03",
+        "payment_date": "2/11/2022",
+        "payment_mode": "google pay",
+        "payment_status": "pending",
+        "order_id": "o3",
+        "product_id": "plant_04",
+        "product_price": "Rs. 1846/-",
+        "user_id": 5
+    },
+    {
+        "payment_id": "p04",
+        "payment_date": "19/10/2022",
+        "payment_mode": "paytm",
+        "payment_status": "completed",
+        "order_id": "o5",
+        "product_id": "fruit_05",
+        "product_price": "Rs. 21550/-",
+        "user_id": 3
+    },
+    {
+        "payment_id": "p05",
+        "payment_date": "21/10/2022",
+        "payment_mode": "paytm",
+        "payment_status": "completed",
+        "order_id": "o1",
+        "product_id": "cake_02",
+        "product_price": "Rs. 824/-",
+        "user_id": 2
+    }
+]
