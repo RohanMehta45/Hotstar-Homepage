@@ -1,0 +1,24 @@
+Page 1
+List of product_details
+
+- http://localhost:9800/pdetails
+
+Page 2
+List of product_variety
+
+- http://localhost:9800/pvariety
+
+Page 3
+List of orders
+
+- http://localhost:9800/order
+
+Page 4
+List of wishlist items
+
+- http://localhost:9800/wishlist
+
+Page 5
+List of users
+
+- http://localhost:9800/user
